@@ -1,3 +1,3 @@
 from pymongo import MongoClient
-client = MongoClient('mongodb+srv://sparta:test@cluster0.xzw0iic.mongodb.net/?retryWrites=true&w=majority')
+client = MongoClient('url')
 db = client.dbsparta
